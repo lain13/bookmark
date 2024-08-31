@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H/d5TkhacOLscB+FAhB4N09gQ8CW2UYtWQxJ8TlItKrNPDI02/te8UohaSaXTOS63goVoq76qU1PUbOJ7mHI2g==",
+  "success": true,
+  "projectFilePath": "C:\\work\\Bookmark\\Bookmark.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lain1\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lain1\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lain1\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512",
+    "C:\\Users\\Lain1\\.nuget\\packages\\zxing.net.bindings.windows.compatibility\\0.16.12\\zxing.net.bindings.windows.compatibility.0.16.12.nupkg.sha512"
+  ],
+  "logs": []
+}
