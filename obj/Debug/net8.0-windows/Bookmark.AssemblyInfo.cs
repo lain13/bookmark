@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bookmark")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a5bd1c88fa9abd85b54de0f36d5dea1d46bfd6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bookmark")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bookmark")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
